@@ -1,5 +1,5 @@
 " Vim color file
-" vs-1984
+" 1984
 " Created by Mark Hagemann with ThemeCreator (https://github.com/mswift42/themecreator)
 " Inspired by https://github.com/juanmnl/vs-1984
 
@@ -10,7 +10,7 @@ syntax reset
 endif
 
 set t_Co=256
-let g:colors_name = "vs-1984"
+let g:colors_name = "1984"
 
 
 " Define reusable colorvariables.
